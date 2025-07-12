@@ -3,7 +3,7 @@
 A simple, elegant web UI for interacting with an AI-powered chatbot. This project includes a responsive HTML/CSS/JavaScript frontend and expects a compatible backend API for chat responses.
 
 ---
-
+   
 ## 🚀 Features
 
 - **Modern Chat UI**: Clean, mobile-friendly design with clear user/bot message distinction.
