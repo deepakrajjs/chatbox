@@ -14,7 +14,7 @@ A simple, elegant web UI for interacting with an AI-powered chatbot. This projec
  
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started 
 
 ### 1. Clone or Download
 Save the `index.html` file from this repository.
